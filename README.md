@@ -19,31 +19,43 @@ method and balancing the classes may have resulted in a large improvement in tru
 
 ## References
 [1] Neal L. Benowitz, M.D. Nicotine Addiction. New England Journal of Medicine.
+
 [2] Graham W Warren, K Michael Cummings. Tobacco and lung cancer: risks, trends, and outcomes
 in patients with cancer. Soc Clin Oncol Educ Book.
+
 [3] Rebecca Evans-Polce PhD, Phil Veliz PhD, etc. Trends in E-Cigarette, Cigarette, Cigar, and
 Smokeless Tobacco Use Among US Adolescent Cohorts, 2014–2018. American Journal of Public
 Health.
+
 [4] Ali A, Hossain SM, Hovsepian K. mPuff: automated detection of cigarette smoking puffs from
 respiration measurements. 2012 ACM/IEEE 11th International Conference on Information Processing
 in Sensor Networks (IPSN), 2012.
+
 [5] Cole CA, Thrasher JF, Strayer SM. Resolving ambiguities in accelerometer data due to location
 of sensor on wrist in application to detection of smoking gesture. IEEE, 2017: 489–92.
+
 [6] Senyurek VY, Imtiaz MH, Belsare P, et al. A CNN-LSTM neural network for recognition of
 puffing in smoking episodes using wearable sensors. Biomed Eng Lett 2020;10:195–203.
+
 [7] Visweswaran S, Colditz JB, O’Halloran P, et al. Machine learning classifiers for Twitter surveillance
 of Vaping: comparative machine learning study. J Med Internet Res 2020;22:e17478.
+
 [8] Chu K-H, Colditz J, Malik M, et al. Identifying key target Audiences for public health campaigns:
 Leveraging machine learning in the case of Hookah tobacco smoking. J Med Internet Res
 2019;21:e12443.
+
 [9] Culotta A. Towards Identifying Leading Indicators of Smoking Cessation Attempts from Social
 Media. In: 2016 IEEE International Conference on Healthcare Informatics (ICHI), 2016: 7–9.
+
 [10] Kostygina G, Tran H, Shi Y, et al. ’Sweeter than a Swisher’: amount and themes of little cigar
 and cigarillo content on Twitter. Tob Control 2016;25:i75–82.
+
 [11] Patel J, Siddiqui Z, Krishnan A, et al. Leveraging electronic dental record data to classify patients
 based on their smoking intensity. Methods Inf Med 2018;57:253–60.
+
 [12] Kim N, McCarthy DE, Loh W-Y, et al. Predictors of adherence to nicotine replacement therapy:
 machine learning evidence that perceived need predicts medication use. Drug Alcohol Depend
 2019;205:107668.
+
 [13] Mamoshina P, Kochetov K, Cortese F, et al. Blood biochemistry analysis to detect smoking
 status and quantify accelerated aging in smokers. Sci Rep 2019;9:142.
